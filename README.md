@@ -1,3 +1,3 @@
-# Hello World Project
+# Hello World Repository
 
-im very confused and this makes me sad like im going to cry
+// This repository contains the c program
